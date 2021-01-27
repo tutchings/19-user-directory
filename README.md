@@ -1,16 +1,17 @@
 # Unit 19 React Homework: Employee Directory
 
 ## Link to Live Project and Project Images
-IMAGE 1: Overall Final Project
 - - -
+IMAGE 1: Overall Final Project
+
 ![Screenshot of Final Project 1](https://github.com/tutchings/19_userDirectoryInitialCommits/blob/master/README_Images/userDirectoryImg1.PNG)
 - - -
 IMAGE 2: Dynamic Search
-- - -
+
 ![Screenshot of Final Project 2](https://github.com/tutchings/19_userDirectoryInitialCommits/blob/master/README_Images/userDirectoryImg2.PNG)
 - - -
 IMAGE 3: Sort Functionality
-- - -
+
 ![Screenshot of Final Project 2](https://github.com/tutchings/19_userDirectoryInitialCommits/blob/master/README_Images/userDirectoryImg3.PNG)
 - - -
 
